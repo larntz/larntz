@@ -1,13 +1,5 @@
 ### ¡Hola! 👋
 
-This is my personal profile. I am interested in Kubernetes, automation, Rust, systems programming, Linux KVM, embedded programming, and more. I am not a software engineer by trade, but I took my first programming class in 4th grade and have been working on various projects ever since! 
-
-Lately, I've been working mostly with python and rust primarily creating REST APIs for day job automated processes, but also work on various personal projects. Hoping to contribute more to open sounce in the future... if only there were more hours in the day!
-
-Professionally, I have an extensive background in infrastructure. In the future I hope to transition into a DevOps or SRE type role. 
-
-For now stay safe 😷 and shoot for the stars 🚀 lol
-
 <!--
 **larntz/larntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
