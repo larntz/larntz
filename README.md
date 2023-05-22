@@ -6,7 +6,7 @@ I am an SRE living in South Florida. Part of a multi-cultural family and love it
 
 ### Professional Skills
 
-I am interested in contributing to open source projects, mentoring and being mentored, and working professional on teams that place high value on collaboration, planning, and quality work.
+I am interested in contributing to open source projects, mentoring and being mentored, and working on professional teams that place high value on collaboration, planning, and quality work.
 
 I've worked extensively with IaC, Kubernetes, observability, and CICD. 
 
