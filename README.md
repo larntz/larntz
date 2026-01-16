@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am an SRE living in South Florida. Part of a multi-cultural family and love it! Cleveland sports fan. When I'm not behind the screen I enjoy being outdoors beaching, paddle boarding, kayaking, and enjoying the 😎 sun.
+I am an SRE living in South Florida. Cleveland sports fan. When I'm not behind the screen I enjoy being outdoors beaching, paddle boarding, kayaking, and enjoying the 😎 sun.
 
 ### Professional Skills
 
